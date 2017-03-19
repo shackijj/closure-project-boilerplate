@@ -1,7 +1,7 @@
-import { boo } from './modules/boo';
+import { write } from './modules/boo';
 
-function start() {
-      boo();
+export function start() {
+      write();
       return new Promise(function(resolve, reject) {
             try {
                   document.write('<h1>Hello Closure!</h1>');

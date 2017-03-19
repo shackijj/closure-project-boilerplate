@@ -1,7 +1,1 @@
-/**
- * Prints Boo
- * @return {void}.
- */
-export function boo() {
-    console.log('Boo');
-}
+export const write = () => document.write('Hello from module');

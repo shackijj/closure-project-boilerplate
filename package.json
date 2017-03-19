@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "builder": "./closure_builder.sh"
+    "builder": "./builder.sh"
   },
   "author": "",
   "license": "ISC",

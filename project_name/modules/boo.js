@@ -1,1 +1,0 @@
-export const write = () => document.write('Hello from module');
